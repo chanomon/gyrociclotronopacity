@@ -1,4 +1,4 @@
-# gyrociclotronopacity
+# gyrociclotron opacity
 Model of flare spectra in GHz range with gyrociclotron mechanism involved
 ![Spectrum of flare with gyrociclotron emission](https://github.com/chanomon/gyrociclotronopacity/blob/main/levmar1601.png)
 ![Effective temperature with diferent parámeters](https://github.com/chanomon/gyrociclotronopacity/blob/main/Teff.png)
